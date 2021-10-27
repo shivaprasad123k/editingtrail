@@ -29,8 +29,12 @@
 ## An advanced Filter Bot with nearly unlimitted filters!
 
 THIS REPO IS EDITTED IN SUCH A WAY THAT IT CAN BE DEPLOYED WITH MEDIA SEARCH BOT TO GIVE MANUAL FILTER.
+
 1)DEPLOY MEDIA SEARCH BOT
+
 2)DEPLOY THIS REPO WITH THE SAME BOT TOKEN GAVED IN MEDIA SEARCH BOT
+
+Pro Tip:Deploy both repos in 2 heroku accounts to save dyno
 ### Features
 * Nearly unlimited filters
 * Supports all type of filters(Including Alert Button Filter).
